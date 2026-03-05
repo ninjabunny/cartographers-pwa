@@ -1,0 +1,16 @@
+{
+  "name": "Cartographers",
+  "short_name": "Carto",
+  "icons": [
+    { "src": "images/icon152.png", "type": "image/png", "sizes": "152x152" },
+    { "src": "images/icon192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "images/icon512.png", "type": "image/png", "sizes": "512x512" },
+    { "src": "images/icon1024.png", "type": "image/png", "sizes": "1024x1024", "purpose": "any" }
+  ],
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#1c2e2d",
+  "theme_color": "#1c2e2d"
+}

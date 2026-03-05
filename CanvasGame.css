@@ -1,0 +1,400 @@
+/** Add css rules here for your application. */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+
+
+body {
+    -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
+    -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
+    -webkit-user-select: none;                  /* prevent copy paste, to allow, change 'none' to 'text' */
+
+}
+.inline{
+    margin: 0 !important;
+    display: inline !important;
+    height: 1.2em;
+    width: auto;
+    vertical-align: middle;
+}
+.appcredit {
+	margin-top: 1vw;
+}
+.appcredit a{
+	text-decoration: none;
+}
+.appcredit img{
+	width: 15vw;
+	height: 15vw;
+	vertical-align: top;
+	margin-right: 15px;
+	float:left;
+}
+.appcredit .apphead{
+	font-size: 5vw;
+	text-align: left;
+	color: #fff;
+}
+.appcredit .appdesc{
+	text-align: left;
+	font-size: 3vw;
+	height: 10vw;
+	color: #ddd;
+}
+
+.content-flow{
+	width: 80%;
+	margin: auto;
+	font-family: Sans-Serif;
+	text-transform: none;
+	font-size: 3vw;
+	color: white;
+}
+.s3{
+	font-size: 3vh;
+}
+.s2{
+	font-size: 2vh;
+}
+.s4{
+	font-size: 3vh;
+}
+.textright{
+	text-align: right;
+	padding: 0px 8vw;
+}
+.textcenter{
+	xtext-align: center;
+	padding: 4px 8vw;
+	clear: both;
+}
+.textcenter img{
+	xmax-width: 80%;
+	margin: 5px 5px 0px 0px;
+}
+
+.textleft{
+	text-align: left;
+	padding: 0px 8vw;
+}
+.head{
+	margin-top: 2vh;
+	    margin-bottom: 0.5vw;
+    text-decoration: underline;
+}
+.game-border{
+	padding: 0px;
+    width: 100%;
+    width: 100vw;
+    height: 100vh; 
+    background: #10314a00;
+    max-height: 100vh;
+    max-width: 155.78vh;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.game-border  canvas{
+	padding: 0px;
+    width: 100%;
+    width: 100vw;
+    xheight: 100vh;
+    
+    background: #10314a00;
+    max-height: 100vh;
+    max-width: 155.78vh;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    outline: none !important;
+}
+#vertical{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	right: 0px;
+	
+	background: url(images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	-webkit-transition: background-image 0.5s ease-in-out;
+	transition: background-image 0.5s ease-in-out;
+}
+#containMe{
+    xposition: absolute;
+    xleft: 242px;
+    xtop: 216px;
+    xright: 242px;
+    xbottom: 225px;
+    xwidth: 800px;
+    xheight: 800px;
+	width: 100%;
+	animation: pulse 2s 5; 
+} 
+
+@keyframes pulse {
+  0% {
+    background-color: #1c2e2d;
+  }
+  50% {
+    background-color: #4c5e5d;
+  }
+  100% {
+    background-color: #1c2e2d;
+  }
+}
+#all {
+	position: relative;
+}
+
+#top {
+    background-image: url(topn.jpg);
+    background-size: 100% 100%;
+	height: 550px;
+}
+
+#bottom {
+background-image: url(bottomn.jpg);
+    background-size: 100% 100%;
+	position: absolute;
+	bottom: 0px;
+	height: 550px;
+	width: 100%;
+}
+
+#center {
+background-image: url(center.jpg);
+    background-size: 100% 100%;
+	position: absolute;
+	bottom: 230px;
+	top: 230px;
+	width: 100%;
+}
+
+.base.visible {
+   	transform: translateX(0%);
+	opacity: 1;
+	pointer-events: all;
+	visibility: visible;
+}
+
+.base.disappear {
+	transform: translateX(-100%) scale(0.5);
+}
+.base.unsichtbar {
+	xtransform: translateY(100%);
+	xvisibility: hidden;
+	display: none;
+}
+
+.long .nofixed .content {
+	bottom:21vw;
+}
+.long .nofixed button {
+	bottom:6vh;
+}
+
+.base {
+	background: none;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    xbottom: 0px;
+	opacity: 1;
+    xoverflow-y: scroll;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in;
+    transition-property: transform, opacity, visibility;
+   	top: 0px;
+   	height: 100%;
+	opacity: 0;
+	pointer-events: none;
+	visibility: hidden;
+   	transform: translateX(100%) scale(2);
+}
+
+/* ===== Select Box ===== */
+.s4s{
+	font-size: 4.5vw;
+	display:flex;
+	flex-wrap: wrap;
+	padding: 1vh;
+}
+.s4r{
+	font-size: 4.5vw;
+	display:flex;
+	flex-wrap: wrap;
+	background: rgba(20,40,0,0.5);
+	border-radius:1vh;
+	padding: 1vh;
+}
+.s4l{
+	font-size: 4.5vw;
+	display:flex;
+	flex-wrap: wrap;
+	background: rgba(128,0,0,0.5);
+	border-radius:1vh;
+	padding: 1vh;
+}
+
+.sel__head{
+	margin-top: 2vh;
+}
+.sel__desc {
+font-size: 2vh;
+    background: rgba(255,255,255,0.7);
+    color: black;
+    padding: 10px;
+    margin: 0vh 1vh;
+    border-radius: 0 0 1vh 1vh;
+}
+.sel {
+  yfont-size: 1rem;
+  display: inline-block;
+  margin: 0em 1em;
+  background-color: transparent;
+  position: relative;
+  cursor: pointer;
+  width: 35px;
+  flex-grow: 1;
+}
+
+.sel::before {
+  position: absolute;
+  content: '+';
+  xfont-family: 'FontAwesome';
+  font-size: 1em;
+  color: #FFF;
+  right: 8px;
+  top: calc(50% - 0.6em);
+  pointer-events: none;
+  user-select: none;
+}
+
+.sel.active::before {
+  transform: rotateX(-180deg);
+}
+
+.sel__placeholder {
+  display: block;
+  xfont-family: 'Quicksand';
+  yfont-size: 1.8em;
+  color: #fff;
+  xpadding: 0.2em 0.5em;
+  text-align: right;
+  xpointer-events: none;
+  xuser-select: none;
+  visibility: visible;
+  padding-right: 1.5em;
+}
+
+.sel.active .sel__placeholder {
+  visibility: hidden;
+}
+
+.sel__placeholder::before {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 0.2em 0.5em;
+  content: attr(data-placeholder);
+  visibility: hidden;
+}
+
+.sel.active .sel__placeholder::before {
+  visibility: visible;
+}
+
+.sel__bottom {
+  bottom: calc(100% + 4px);
+  top: unset !important;
+}
+.sel__box {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: -4px;
+  display: none;
+  list-style-type: none;
+  text-align: left;
+  font-size: 1em;
+  background-color: #FFF;
+  width: calc(100% + 8px);
+  box-sizing: border-box;
+  z-index: 4;
+}
+
+.sel.active .sel__box {
+  display: block;
+  animation: fadeInUp 500ms;
+  overflow:hidden;
+  border-radius: 1vh;
+}
+
+.sel__box__even {
+	background: #eee;
+}
+.sel__box__options {
+  display: list-item;
+  xfont-family: 'Quicksand';
+  font-size: 1em;
+  color: #000;
+  padding: 0.5em 1em;
+  user-select: none;
+}
+
+.sel__box__options::after {
+  content: '\f00c';
+  font-family: 'FontAwesome';
+  font-size: 0.5em;
+  margin-left: 5px;
+  display: none;
+}
+
+.sel__box__options.selected::after {
+  display: inline;
+}
+
+.sel__box__options:hover {
+  background-color: #ebedef;
+}
+
+/* ----- Select Box Black Panther ----- */
+.sel {
+  border-bottom: 4px solid rgba(0, 0, 0, 0.3);
+}
+
+
+/* ===== Keyframes ===== */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}

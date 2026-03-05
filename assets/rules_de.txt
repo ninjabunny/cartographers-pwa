@@ -1,0 +1,96 @@
+<img src="images/schachtel.png" style="width:80%; display: block; margin: 0 auto;"/>
+head|1|Spielziel
+In diesem Spiel wirst du im Laufe von 4 Jahreszeiten Ruhmespunkte durch Entdecken von Landschaften auf deiner Karte sammeln. Dazu setzt Du die mittels den Erkundungskarten gezogenen Landschaften klug auf deiner Landkarte ein und versuchst damit, die Wertungskarten der Dekrete der Königin so gut wie möglich zu erfüllen um viel Ruhm zu erlangen.
+
+subhead|2|Jahreszeiten
+<img src="images/rules/jahresz.png" style="width: 40%; float: left;"/>Das Spiel läuft über 4 Jahreszeiten, in jeder dieser Jahreszeiten spielst Du mehrere Runden (ca. 4-8). Es werden Erkundungskarten aufgedeckt, die Dir angeben welche Gebiete Du entdecken kannst und dabei in Deiner Karte clever markierst um möglichst viele Punkte zu erlangen.
+
+subhead|2|Erkundungskarten
+<img src="images/rules/form.png" style="width: 20%; float: left;"/><img src="images/rules/type.png" style="width: 20%; float: left;"/>Eine Erkundungskarte gibt Dir immer, je nach aufgedeckter Karte, die Möglichkeit entweder die Form oder den Landschaftstyp aus zwei Alternativen zu wählen. (Bild form/landschaft)
+Nachdem Du Deine Auswahl getroffen hast, kannst Du die Landschaft auf Deiner Karte platzieren, indem Du sie durch Antippen an dem gewünschten Platz einträgst.
+<img src="images/rules/ruleok.png" style="width: 8%; float: left;"/>Bist Du zufrieden mit der Platzierung bestätigst Du dies mittels dem "OK" Knopf.
+
+subhead|3|Spezielle Erkundungskarten
+Unter den Erkundungskarten gibt es außerdem:
+<ul>
+<li><img src="images/rules/ruine2.png" style="width: 15%; float: right;"/>Ruinen/Verfallener Vorposten: Wird eine Ruine gezogen wird sofort eine weitere Erkundungskarte aufgedeckt. Diese Landschaft muss nun auf einem der vorgegebenen Ruinenfeldern (Bild säulen) platziert werden.</li>
+<li><img src="images/rules/monster.png" style="width: 15%; float: right;"/>Monster: Wenn es zu einem Monsterüberfall kommt, werden die jeweiligen Monster in Deiner Karte automatisch platziert und bringen später für jedes freie, angrenzende Feld einen Minuspunkt. (siehe Wertung)</li>
+</ul>
+
+subhead|2|Ablauf
+<img src="images/rules/time.png" style="width: 8%; float: right;"/>So wird eine Erkundungskarte nach der Anderen entdeckt und auf der Karte markiert, bis die Jahreszeit beendet ist. Dies ist der Fall, wenn die Dauer der Jahreszeit, die ganz oben links in der Ecke angezeigt wird, (8/8/7/6) durch die Summe des Zeitbedarfs auf den Entdeckungskarten dieser Jahreszeit erreicht oder überschritten wird.<br/><img src="images/rules/dekret.png" style="width: 27%; float: left;"/>Am Ende der Jahreszeit folgt dann die Abrechnung der Wertungskarten für die entsprechende Jahreszeit.<ul><li>Frühling - Dekret A und B</li><li>Sommer - Dekret B und C</li><li>Herbst - Dekret C und D</li><li>Winter - Dekret D und A</li></ul>
+Somit wird jede Wertungskarte in einem Spieljahr genau zweimal gewertet.
+
+head|1|Abrechnung
+<img src="images/rules/gruenfl.png" style="width: 27%; float: left;"/>Jede Wertungskarte hat eine eigene Wertung, die im Detail unten beschrieben wird. Für eine "Grünfläche-Wertungskarte" bekommst Du z.B jeweils einen Punkt für jeden Baum in einer Zeile oder Spalte den Du "entdeckt" hast. (Hier sind es bereits 5 Punkte)
+Die genaue Beschreibung und für was und welche Felder Du im einzelnen Punkte für eine Wertungskarte erhältst, kannst Du im Spiel jederzeit durch Antippen einblenden.
+
+subhead|2|Monster und Gold
+<img src="images/rules/monsi.png" style="width: 20%; float: left;"/>Außerdem gibt es am Ende jeder Jahreszeit Punktabzüge für jedes leere Feld, das an ein Monster angrenzt. Du solltest die Monster also schnell mit Landschaften umschließen um wenig Abzüge am Ende jeder Jahreszeit zu erhalten.
+<img src="images/rules/abzug.png" style="width: 27%; float: right;"/>Die Anzahl an freien Feldern um die Monster auf Deiner Karte wird stets aktuell oben rechts angezeigt.
+
+<img src="images/rules/muenze.png" style="width: 10%; float: left;"/>Als Bonus bekommst Du aber auch all Dein gesammeltes Gold am Jahreszeitenende als Punkte gutgeschrieben. Auch dieser Wert wird Dir immer aktuell oben rechts angezeigt.
+<img src="images/rules/berg.png" style="width: 20%; float: left;"/>Gold erhältst Du entweder, indem Du die Berge auf Deiner Karte vollständig mit Landschaft umschließt, oder indem Du bei einigen Entdeckungskarten, die jeweils kleinere, mit einer Münze markierte Teilform wählst und platzierst.
+Das gesammelte Gold, für das Du Punkte am Ende jeder Jahreszeit erhältst, bleibt Dir dabei über das ganze Spiel erhalten, und Du erhältst diese Punkte somit bis zu 4 mal pro Spiel.
+
+head|1|Spielende:
+Das Spiel endet mit der Jahreszeitenabrechnung des Winters. Um nun eine gerechte Bewertung der verschiedenen Wertungskarten zu erzielen, wird ein vorgegebener Wert für jede Deiner Wertungskarten von Deinen Gesamtpunkten abgezogen.
+<img src="images/rules/basis.png" style="width: 10%; float:left;"/>Diesen "Basisabzug" kannst Du in der Beschreibung der einzelnen Wertungskarten einsehen, oder in der Endabrechnung.
+<img src="images/rules/wertung.png" style="width: 60%;display:block;margin:auto;"/>
+Der somit erreichte Wert gibt nun an wie zufrieden die Königin Gimnax mit Deiner Kartographierung war.
+<table style="text-align: center;margin: 10px auto;"><tr><td>30+</td><td>Legendärer Meisterkartograph</td></tr><tr><td>20</td><td>Kunstvoller Kartenzeichner</td></tr><tr><td>10</td><td>Reisender Topograph</td></tr><tr><td>0</td><td>Vermesserlehrling</td></tr><tr><td>-5</td><td>Hobbygutachter</td></tr><tr><td>-10</td><td>Unbeholfener Assistent</td></tr><tr><td>-20</td><td>Möchtegern</td></tr><tr><td>-30</td><td>Törichter Tölpel</td></tr></table>
+
+
+head|1|Wertungskarten
+<img src="images/rules/a1.png" style="width: 20%; float: left;"/><strong>Schildwald</strong><br/>1 Ruhmpunkt für jedes Wald-Feld, das an den Rand grenzt.
+<img src="images/rules/a2.png" style="width: 20%; float: left;"/><strong>Düsterwald</strong><br/>1 Ruhmpunkt für jedes Wald-Feld, das ausschließlich an ausgefüllte Felder (und/oder den Rand) grenzt.
+<img src="images/rules/a3.png" style="width: 20%; float: left;"/><strong>Grünfläche</strong><br/>1 Ruhmpunkt für jede Zeile und jede Spalte mit mindestens 1 Wald-Feld. Jedes Wald-Feld darf dabei sowohl für eine Zeile als auch eine Spalte gewertet werden.
+<img src="images/rules/a4.png" style="width: 20%; float: left;"/><strong>Pfad des Waldes</strong><br/>3 Ruhmpunkte für jedes Gebirgs-Feld, das über 1 Wald-Gebiet mit einem anderen Gebirgs-Feld verbunden ist. Beide Gebirgs-Felder müssen also an dasselbe Wald-Gebiet angrenzen.
+<img src="images/rules/a5.png" style="width: 20%; float: left;"/><strong>Bewässerungskanal</strong><br/>1 Ruhmpunkt für jedes Wasser-Feld, das an mindestens 1 Acker-Feld grenzt. 1 Ruhmpunkt für jedes Acker-Feld, das an mindestens 1 Wasser-Feld grenzt.
+<img src="images/rules/a6.png" style="width: 20%; float: left;"/><strong>Goldener Kornspeicher</strong><br/>1 Ruhmpunkt für jedes Wasser-Feld, das an 1 Ruinen-Feld grenzt, egal ob dieses ausgefüllt oder leer ist. 3 Ruhmpunkte für jedes Acker-Feld auf einem Ruinen-Feld. 
+<img src="images/rules/a7.png" style="width: 20%; float: left;"/><strong>Tal der Magier</strong><br/>2 Ruhmpunkte für jedes Wasser- Feld, das an 1 Gebirgs-Feld grenzt. 1 Ruhmpunkt für jedes Acker-Feld, das an 1 Gebirgs-Feld grenzt.
+<img src="images/rules/a8.png" style="width: 20%; float: left;"/><strong>Ausgedehnte Strände</strong><br/>3 Ruhmpunkte für jedes Acker-Gebiet, das weder an den Rand noch an 1 oder mehrere Wasser-Felder grenzt. 3 Ruhmpunkte für jedes Wasser- Gebiet, das weder an den Rand noch an 1 oder mehrere Acker-Felder grenzt.
+<img src="images/rules/a9.png" style="width: 20%; float: left;"/><strong>Bastionen in der Wildnis</strong><br/>8 Ruhmpunkte für jedes Dorf- Gebiet, das aus mindestens 6 Dorf-Feldern besteht.
+<img src="images/rules/a10.png" style="width: 20%; float: left;"/><strong>Schillernde Ebene</strong><br/>3 Ruhmpunkte für jedes Dorf- Gebiet, das an mindestens 3 unterschiedliche Geländearten grenzt.
+<img src="images/rules/a11.png" style="width: 20%; float: left;"/><strong>Metropole</strong><br/>1 Ruhmpunkt für jedes Dorf-Feld in deinem größten Dorf-Gebiet, das nicht an 1 oder mehrere Gebirgs- Felder grenzt. Das ganze Dorf-Gebiet darf an kein Gebirgs-Feld angrenzen, um gewertet zu werden.
+<img src="images/rules/a12.png" style="width: 20%; float: left;"/><strong>Schild des Reichs</strong><br/>2 Ruhmpunkte für jedes Feld in deinem zweitgrößten Dorf-Gebiet. Im Falle eines Gleichstandes um das größte Dorf-Gebiet, erhältst du Ruhmpunkte entsprechend des größten Gebiets.
+<img src="images/rules/a13.png" style="width: 20%; float: left;"/><strong>Grenzland</strong><br/>6 Ruhmpunkte für jede vollständig ausgefüllte Zeile und jede vollständig ausgefüllte Spalte.
+<img src="images/rules/a14.png" style="width: 20%; float: left;"/><strong>Die Lange Straße</strong><br/>3 Ruhmpunkte für jede Diagonale vom linken zum unteren Rand, in der alle Felder ausgefüllt sind. Befinden sich auf dieser Diagonalen nur ausgefüllte Felder, erhaltet ihr für diese Diagonale 3 Ruhmpunkte.
+<img src="images/rules/a15.png" style="width: 20%; float: left;"/><strong>Unzugängliche Baronie</strong><br/>3 Ruhmpunkte für jede Spalte deines größten, vollständig ausgefüllten Quadrats an Feldern. Für jede Spalte dieses Quadrats erhaltet ihr 3 Punkte.
+<img src="images/rules/a16.png" style="width: 20%; float: left;"/><strong>Die Kessel</strong><br/>1 Ruhmpunkt für jedes leere Feld, das an 4 ausgefüllte Felder (und/ oder den Rand) grenzt.
+
+<img src="images/schachtel_h.png" style="width:50%; display: block; margin: 0 auto;"/>
+
+head|1|Helden
+Wurde ein Held aufgedeckt, platziert ihr eine Form der Größe 1×1 mit der Geländeart Held.
+<img src="images/rules/attack.png" style="height: 2em; float: left;"/><p>Wählt dabei auch das Angriffsmuster des Helden. Dieses Angriffsmuster wird mit Sternen markiert. Angriffsmuster dürft ihr ebenfalls drehen und/oder spiegeln und sie dürfen über den Rand und/oder ausgefüllte Felder ragen.</p>
+Sobald sich ein <img src="images/rules/attack.png" style="height: 1em; margin: 0px;"/> auf einem Feld mit der Geländeart Monster befindet, wird das Feld sofort <strong>zerstört</strong>.
+
+head|1|Zerstörte Felder
+Felder können im Spielverlauf auch durch andere Effekte zerstört werden.
+Zerstörte Felder werden stets sofort mit einem <img src="images/rules/zerstoert.png" style="height: 1em; margin: 0px;"/> markiert.
+Zerstörte Felder sind ausgefüllt, haben aber keine Geländeart.
+Wird ein Feld mit der Geländeart Held zerstört, ändern sich die Regeln für Felder mit <img src="images/rules/attack.png" style="height: 1em; margin: 0px;"/> dadurch nicht. Alle <img src="images/rules/attack.png" style="height: 1em; margin: 0px;"/> bleiben eingezeichnet.
+
+head|1|Undercity - UNTEN UND OBEN
+<img src="images/rules/undercity.png" style="width: 20%; float: left;"/>Die Undercity-Karten haben zwei Abschnitte: Über und unter der Erde, die horizontal durch die Bodenlinie getrennt sind. Diese Abschnitte sind durch das Tor verbunden, das als gefülltes Feld betrachtet wird.
+Du darfst nur Formen zeichnen, die sich vollständig über oder unter der Erde befinden. Wenn du eine Landschaft setzt, muss du sie so platzieren, dass ein durchgehender Pfad von gefüllten Feldern von der neuen Figur zurück zum Tor verfolgt werden kann.
+Wenn du keine der verfügbaren Formen setzen kannst, erhälst du ein 1x1-Quadrat, das mit einem beliebigen Geländetyp (außer Bergen) gefüllt werden kann, aber du musst immer noch in der Lage sein, einen durchgehenden Pfad zurück zum Tor zu verfolgen.
+
+head|1|Wertungskarten
+<img src="images/rules/a32.png" style="width: 20%; float: left;"/><strong>Faunwald</strong><br/>Wähle 1 Spalte. Erhalte 2 Ruhmpunkte für jedes Wald-Feld im längsten, nicht unterbrochenen Wald-Gebiet in dieser Spalte. (Betrachte dazu nur Wald-Felder in dieser Spalte. Die Wald-Felder müssen direkt übereinander liegen, ohne Unterbrechung.)
+<img src="images/rules/a31.png" style="width: 20%; float: left;"/><strong>Abgelegener Forst</strong><br/>6 Ruhmpunkte für jedes WaldGebiet, das aus 5 oder mehr Feldern besteht und das nicht an 1 oder mehrere Dorf-Felder angrenzt. (Waldgebiete, die kleiner sind und/oder an Dörfer angrenzen, geben also keine Punkte.) 
+<img src="images/rules/a30.png" style="width: 20%; float: left;"/><strong>Herz des Waldes</strong><br/>2 Ruhmpunkte für jedes WaldFeld, das nur an Wald-Felder und/ oder den Rand grenzt. (Befindet sich also ein leeres Feld oder ein anderer Geländetyp neben dem Wald-Feld, gibt es für dieses Feld keine Punkte.) 
+<img src="images/rules/a29.png" style="width: 20%; float: left;"/><strong>Verschlafenes Tal</strong><br/>4 Ruhmpunkte für jede Zeile mit mindestens 3 Wald-Feldern. (Die Felder müssen nicht aneinander angrenzen.) 
+<img src="images/rules/a28.png" style="width: 20%; float: left;"/><strong>Seenplatte</strong><br/>7 Ruhmpunkte für jedes AckerGebiet, das an mindestens 3 Wasser-Felder angrenzt. (Acker-Gebiete, die an weniger oder keine Wasser-Felder angrenzen, geben keine Punkte.) 
+<img src="images/rules/a27.png" style="width: 20%; float: left;"/><strong>Ulemsumpf</strong><br/>4 Ruhmpunkte für jedes WasserFeld, das an mindestens 2 AckerFelder angrenzt.
+<img src="images/rules/a26.png" style="width: 20%; float: left;"/><strong>Klauengrabgipfel</strong><br/>5 Ruhmpunkte für jedes GebirgsFeld, das über ein Wasser-Gebiet mit einem Acker-Feld verbunden ist. (Für jedes Gebirgs-Feld kannst du also nur einmal 5 Ruhmpunkte erhalten. Mit wie vielen AckerFeldern das Gebirgs-Feld verbunden ist, ist nicht wichtig, auch nicht, wie viele Wasser-Felder dazwischen liegen, nur dass dem so ist.)
+<img src="images/rules/a25.png" style="width: 20%; float: left;"/><strong>Jorekburg</strong><br/>4 Ruhmpunkte für jede Spalte mit gleich vielen Acker- und WasserFeldern (je mindestens 1). (Um für eine Spalte Ruhmpunkte zu erhalten, muss die Spalte also mindestens 1 Acker-Feld und genau gleich viele Wasser-Felder enthalten.)
+<img src="images/rules/a24.png" style="width: 20%; float: left;"/><strong>Traylokloster</strong><br/>7 Ruhmpunkte für jedes Dorf-Gebiet mit mindestens 1 ausgefüllten Rechteck der Größe 1×4 (oder 4×1). (Um Ruhmpunkte zu erhalten, müssen sich also mindestens 4 direkt über- oder nebeneinanderliegende Dorf-Felder in dem Gebiet befinden.)
+<img src="images/rules/a23.png" style="width: 20%; float: left;"/><strong>Enklave im Grenzgebiet</strong><br/>1 Ruhmpunkt für jedes leere Feld, das an ein von dir gewähltes DorfGebiet angrenzt. (Du wählst also zuerst 1 DorfGebiet und erhältst dann 1 Ruhmpunkt für jedes leere Feld, das daran angrenzt.)
+<img src="images/rules/a22.png" style="width: 20%; float: left;"/><strong>Gnomkolonie</strong><br/>6 Ruhmpunkte für jedes DorfGebiet mit mindestens 1 ausgefüllten Quadrat der Größe 2×2. (Es dürfen sich weitere Dorf-Felder und ggf. auch ein größeres Quadrat in diesem Gebiet befinden. Du erhältst für jedes Dorf-Gebiet nur einmal Punkte, egal wie viele Quadrate darin sind.)
+<img src="images/rules/a21.png" style="width: 20%; float: left;"/><strong>Karawanserei</strong><br/>1 Ruhmpunkt für jede Zeile und für jede Spalte mit mindestens 1 Feld eines von dir gewählten Dorf-Gebietes. (Du wählst also zuerst 1 DorfGebiet und erhältst dann 1 Ruhmpunkt für jede Spalte und 1 Ruhmpunkt für jede Zeile, die ein Feld dieses Gebiets enthält.)
+<img src="images/rules/a20.png" style="width: 20%; float: left;"/><strong>Zwergenfestungen</strong><br/>7 Ruhmpunkte für jede vollständig ausgefüllte Zeile mit mindestens 1 Gebirgs-Feld und für jede vollständige ausgefüllte Spalte mit mindestens 1 Gebirgs-Feld.
+<img src="images/rules/a19.png" style="width: 20%; float: left;"/><strong>Silos</strong><br/>10 Ruhmpunkte für jede vollständig ausgefüllte Spalte, die eine ungerade Nummer hat.
+<img src="images/rules/a18.png" style="width: 20%; float: left;"/><strong>Hügel der Toleranz</strong><br/>4 Ruhmpunkte für jede Zeile mit mindestens 5 verschiedenen Geländearten.
+<img src="images/rules/a17.png" style="width: 20%; float: left;"/><strong>Siegel der Sterne</strong><br/>4 Ruhmpunkte für je genau 3 aneinander angrenzende, leere Felder. (Die 3 leeren Felder dürfen also außer an sich selbst nur an den Rand und/oder ausgefüllte Felder grenzen.)

@@ -1,0 +1,544 @@
+Normal
+Fast
+Speed
+Animation_H
+Animation_0
+Animation_1
+Animation_2
+On
+Off
+Map.1
+Map.2
+Map.3
+Map.4
+Map.5
+Map.6
+Random
+Heroes
+Classic
+Explore.Cards_H
+Map_H
+Ruins_H
+Seasons_H
+Ambush_H
+Scoring_H
+Heroes_H
+Undercity_H
+Map_0
+Map_1
+Map_2
+Map_3
+Map_4
+Map_5
+Explore.Cards_0
+Explore.Cards_1
+Scoring_0
+Scoring_1
+Scoring_2
+Heroes_0
+Heroes_1
+Seasons_0
+Seasons_1
+Ambush_0
+Ambush_1
+Ambush_2
+Ambush_3
+Ruins_0
+Ruins_1
+Undercity_0
+Undercity_1
+Undercity_2
+$BEREITS1
+$BEREITS2
+$VERK1
+$VERK2
+$VERK3
+$SEND1
+$SEND2
+$ATTENTION1
+HELPH1
+HELP1
+HELPH2
+HELP2
+HELPH3
+HELP3
+HELPH4
+HELP4
+HELPH5
+HELP5
+HELPH6
+HELP6
+HELPH7
+HELP7
+HELPH8
+HELP8
+HELPH9
+HELP9
+HELPH10
+HELP10
+HELPH11
+HELP11
+Spring
+Summer
+Fall
+Winter
+TIT0
+DESC0
+EXP0
+TIT1
+DESC1
+EXP1
+TIT2
+DESC2
+EXP2
+TIT3
+DESC3
+EXP3
+TIT4
+DESC4
+EXP4
+TIT5
+DESC5
+EXP5
+TIT6
+DESC6
+EXP6
+TIT7
+DESC7
+EXP7
+TIT8
+DESC8
+EXP8
+TIT9
+DESC9
+EXP9
+TIT10
+DESC10
+EXP10
+TIT11
+DESC11
+EXP11
+TIT12
+DESC12
+EXP12
+TIT13
+DESC13
+EXP13
+TIT14
+DESC14
+EXP14
+TIT15
+DESC15
+EXP15
+EXP16
+TIT16
+DESC16
+TIT17
+DESC17
+TIT18
+DESC18
+TIT19
+DESC19
+TIT20
+DESC20
+TIT21
+DESC21
+TIT22
+DESC22
+TIT23
+DESC23
+TIT24
+DESC24
+TIT25
+DESC25
+TIT26
+DESC26
+TIT27
+DESC27
+TIT28
+DESC28
+TIT29
+DESC29
+TIT30
+DESC30
+TIT31
+DESC31
+TIT32
+DESC32
+TIT33
+DESC33
+TIT34
+DESC34
+EXP17
+EXP18
+EXP19
+EXP20
+EXP21
+EXP22
+EXP23
+EXP24
+EXP25
+EXP26
+EXP27
+EXP28
+EXP29
+EXP30
+EXP31
+EXP32
+EXP33
+EXP34
+EXP35
+EXP36
+EXP37
+EXP38
+EXP39
+GameTyp1
+GameTyp2
+GameTyp3
+GameTypOffline
+GameTypNot
+GameTypLoad
+Hauptmenue
+Schliessen
+Statistiken
+Deine.besten.Spiele
+Deine.letzten.Spiele
+Gespielte.Spiele
+Durchschnitspunkte
+Bestes.Spiel
+Datum
+dd.MM.yyyy.-.HH:mm.'
+Überprüfe.email...
+Unbekannte.Emailadre
+Ungültiger.Code.
+Verknüpfe.Deinen.Acc
+Deine.Email-adresse
+Zugesendeter.Code.
+Account.verknüpfen
+Email.bestätigen
+Sende.email.an.Dich.
+Fehler.beim.überprüf
+Dein.Account.wurde.e
+Endet.in
+einem.Tag.und
+Tagen.und
+Stunden
+Letzte.Liste
+Aktuelle.Liste
+Deine.größten.Erfolg
+Die.besten.Röster.-.
+Bitte.mindestens.3.u
+Bitte.lese.und.akzep
+Registriere.neuen.Ac
+Der.Nutzername.ist.s
+oder.gib.Deine.zuvor
+Name
+Platz
+Punkte
+Datenschutz.akzeptie
+Offline.spielen
+Gib.Dir.einen.Namen
+Higscores
+Achievements
+Regeln
+Credits
+Zurück
+Entwickelt.durch:
+Author
+Verlag
+Produkt.kaufen
+Einkaeufe.wiederhers
+kaufen.fuer
+Weiter
+Los
+Nichtmehr
+Keine.Verbindung..Ve
+Keine.Internetverbin
+Ein.Fehler.bei.der.e
+Ein.Fehler.ist.aufge
+Der.Nutzername.ist.s
+Ein.Fehler.bei.der.R
+LVL1
+LVL2
+LVL3
+LVL4
+LVL5
+LVL6
+LVL7
+LVL8
+Spielen
+Erfolge
+
+----------------------------------------------------------------
+Normal
+Schnell
+Sehr schnell
+Animationen
+Normale Animationsgeschwindigkeit
+Schnelle Animationen
+Sehr schnelle Animationen
+An
+Aus
+Grundspiel A
+Grundspiel B
+Erweiterung C
+Erweiterung D
+Undercity U1
+Undercity U2
+Zufällig
+Erweiterung
+Grundspiel
+Erkundungskarten
+Landkarte
+Ruinen
+Jahreszeiten
+Hinterhalt
+Wertungskarten
+Helden
+Undercity
+Verwende die A-Seite der Landkarten-Pläne aus dem Basisspiel von Kartograph.
+Verwende die B-Seite der Landkarten-Pläne aus dem Basisspiel von Kartograph.
+Verwende die C-Seite der Landkarten-Pläne aus der Kartographin-Erweiterung.
+Verwende die D-Seite des Landkarten-Pläne aus der Kartographin-Erweiterung.
+Verwende die U1-Seite der Landkarten-Pläne aus dem Kartenspiel Undercity.
+Verwende die U2-Seite der Landkarten-Pläne und die Regeln aus dem Undercity-Erweiterungsspiel.
+Verwende die Erkundungskarten aus dem Grundspiel von Der Kartograph.
+Verwende die Erkundungskarten aus der Kartographin-Erweiterung.
+Verwende Wertungskarten aus dem Basisspiel Der Kartograph und der Erweiterung Die Kartographin.
+Verwende nur Wertungskarten aus dem Grundspiel von Der Kartograph.
+Verwende nur Wertungskarten aus der Kartographin-Erweiterung.
+Verwende die Heldenkarten.
+Verwende keine Heldenkarten.
+Verwende die Jahreszeitenkarten aus dem Grundspiel von Der Kartograph.
+Verwende die Jahreszeitenkarten aus der Kartographin-Erweiterung. Die Sommersaison ist kürzer.
+Verwende alle veröffentlichten Hinterhaltkarten.
+Verwende nur die Hinterhalt-Karten aus dem Hinterhalt-Promo-Pack.
+Verwende nur die Hinterhalt-Karten aus dem Grundspiel von Der Kartograph.
+Verwende nur die Hinterhaltkarten aus der Kartographin-Erweiterung.
+Verwende Ruinenkarten und Ruinenfelder.
+Verwende keine Ruinenkarten und Ruinenfelder.
+Klassisches Spiel, ohne die Regeln und Karten aus den unbekannten Landen "Undercity".
+Undercity Spiel mit der ersten Karte aktiviert. 
+Undercity Spiel mit der zweiten Karte aktiviert.
+Der Account ist bereits mit folgender eMail verknüpft.
+Du kannst Dich auf jeden Gerät mit dieser eMail anmelden.
+Verknüpfe Account
+mit Deiner email.
+Hast du deine email mit diesem Account verknüpft, kannst Du ihn jederzeit wieder herstellen, auch auf anderen Geräten.
+Bestätigungscode wird gesendet an 
+Trage dann den erhaltenen Code aus der eMail hier ein.
+ACHTUNG! Dein aktueller Name und Dein zugehöriger Account gehen verloren, solltest Du keine email mit ihm verknüpfen.<br>Bist Du sicher?
+Der Kartograph
+In diesem Spiel versuchst Du über 4 Jahreszeiten hinweg, durch Aufgaben möglichst viele Punkte zu sammeln.
+Aufgaben
+Jede der 4 Aufträge gibt Punkte für verschiedene Bedingungen, die Du erfüllst.
+Aufgaben
+Am Ende jeder Jahreszeit werden immer 2 der 4 Aufträge ausgewertet.
+Landschaft entdecken
+Um diese Aufträge zu erfüllen kannst Du Landschaften entdecken. Zufällig wird eine Landschaft gezogen.
+Landschaften
+Eine Landschaft hat einen Typ und eine Form. Eines davon kannst Du auswählen. Bei dieser Karte wählst Du zwischen Wald oder Feld.
+Platzieren
+Wähle einen Typ und platziere dann diese Landschaftform auf der Karte indem Du die gewünschte Position auswählst und die Felder zum platzieren markierst.
+Bestätigen
+Hast Du die Form und ihren Typ an deiner gewünschten Position, klickst Du auf Haken.
+Klasse!!
+Du hast Deine erste Landschaft entdeckt. Nun wird eine Neue aufgedeckt, die Du dann ebenso auf der Karte einsetzen kannst.
+Landschaft entdecken
+Bei dieser Entdeckung hast Du die Wahl zwischen zwei Landschaftsformen. Wähle eine aus und platziere sie clever um den Auftragszielen näher zu kommen.
+Jahreszeit
+Jede Entdeckung einer Landschaften benötigt Zeit, die Du in der Auslage sehen kannst.
+Jahreszeit
+Wurde die Zeit die dir in einer Jahreszeit zur Verfügung steht durch alle Deine Entdeckungen überschritten endet diese und es kommt zur Wertung.
+Frühling
+Sommer
+Herbst
+Winter
+Schildwald
+1 Ruhmpunkt für jedes Wald-Feld, das an den Rand grenzt.
+Großer Strom
+Düsterwald
+1 Ruhmpunkt für jedes Wald-Feld, das ausschließlich an ausgefüllte Felder (und/oder den Rand) grenzt.
+Baumwipfeldorf
+Grünfläche 
+1 Ruhmpunkt für jede Zeile und jede Spalte mit mindestens 1 Wald-Feld. Jedes Wald-Feld darf dabei sowohl für eine Zeile als auch eine Spalte gewertet werden.
+Fischerdorf
+Pfad des Waldes
+3 Ruhmpunkte für jedes Gebirgs-Feld, das über 1 Wald-Gebiet mit einem anderen Gebirgs-Feld verbunden ist. Beide Gebirgs-Felder müssen also an dasselbe Wald-Gebiet angrenzen.
+Ackerland
+Bewässerungskanal 
+1 Ruhmpunkt für jedes Wasser-Feld, das an mindestens 1 Acker-Feld grenzt. 1 Ruhmpunkt für jedes Acker-Feld, das an mindestens 1 Wasser-Feld grenzt.
+  Gehöft  
+Goldener Kornspeicher 
+1 Ruhmpunkt für jedes Wasser-Feld, das an 1 Ruinen-Feld grenzt, egal ob dieses ausgefüllt oder leer ist. 3 Ruhmpunkte für jedes Acker-Feld auf einem Ruinen-Feld.
+  Sumpf  
+Tal der Magier 
+2 Ruhmpunkte für jedes Wasser- Feld, das an 1 Gebirgs-Feld grenzt. 1 Ruhmpunkt für jedes Acker-Feld, das an 1 Gebirgs-Feld grenzt.
+  Weiler  
+Ausgedehnte Strände 
+3 Ruhmpunkte für jedes Acker-Gebiet, das weder an den Rand noch an 1 oder mehrere Wasser-Felder grenzt. 3 Ruhmpunkte für jedes Wasser- Gebiet, das weder an den Rand noch an 1 oder mehrere Acker-Felder grenzt.
+Splitterland
+Bastionen in der Wildnis
+8 Ruhmpunkte für jedes Dorf- Gebiet, das aus mindestens 6 Dorf-Feldern besteht.
+Vergessener Wald
+Schillernde Ebene 
+3 Ruhmpunkte für jedes Dorf- Gebiet, das an mindestens 3 unterschiedliche Geländearten grenzt.
+Hinterlandbach
+Metropole 
+1 Ruhmpunkt für jedes Dorf-Feld in deinem größten Dorf-Gebiet, das nicht an 1 oder mehrere Gebirgs- Felder grenzt. Das ganze Dorf-Gebiet darf an kein Gebirgs-Feld angrenzen, um gewertet zu werden.
+Obsthain
+Schild des Reichs 
+2 Ruhmpunkte für jedes Feld in deinem zweitgrößten Dorf-Gebiet. Im Falle eines Gleichstandes um das größte Dorf-Gebiet, erhältst du Ruhmpunkte entsprechend des größten Gebiets.
+Goblinattacke
+Grenzland
+6 Ruhmpunkte für jede vollständig ausgefüllte Zeile und jede vollständig ausgefüllte Spalte.
+Grottenschratüberfall
+Die Lange Straße 
+3 Ruhmpunkte für jede Diagonale vom linken zum unteren Rand, in der alle Felder ausgefüllt sind. Befinden sich auf dieser Diagonalen nur ausgefüllte Felder, erhaltet ihr für diese Diagonale 3 Ruhmpunkte.
+Koboldansturm
+Unzugängliche Baronie 
+3 Ruhmpunkte für jede Spalte deines größten, vollständig ausgefüllten Quadrats an Feldern. Für jede Spalte dieses Quadrats erhaltet ihr 3 Punkte.
+Gnollangriff
+Die Kessel 
+1 Ruhmpunkt für jedes leere Feld, das an 4 ausgefüllte Felder (und/ oder den Rand) grenzt.
+Tempelruinen
+Verfallener Außenposten
+Faunwald
+Erhalte 2 Ruhmpunkte für jedes Wald-Feld im längsten, nicht unterbrochenen Wald-Gebiet in dieser Spalte.
+Abgelegener Forst
+6 Ruhmpunkte für jedes WaldGebiet, das aus 5 oder mehr Feldern besteht und das nicht an 1 oder mehrere Dorf-Felder angrenzt.
+Herz des Waldes
+2 Ruhmpunkte für jedes WaldFeld, das nur an Wald-Felder und/oder den Rand grenzt.
+Verschlafenes Tal
+4 Ruhmpunkte für jede Zeile mit mindestens 3 Wald-Feldern.
+Seenplatte
+7 Ruhmpunkte für jedes AckerGebiet, das an mindestens 3 Wasser-Felder angrenzt.
+Ulemsumpf
+4 Ruhmpunkte für jedes WasserFeld, das an mindestens 2 AckerFelder angrenzt.
+Klauengrabgipfel
+5 Ruhmpunkte für jedes GebirgsFeld, das über ein Wasser-Gebiet mit einem Acker-Feld verbunden ist.
+Jorekburg
+4 Ruhmpunkte für jede Spalte mit gleich vielen Acker- und WasserFeldern (je mindestens 1).
+Traylokloster
+7 Ruhmpunkte für jedes Dorf-Gebiet mit mindestens 1 ausgefüllten Rechteck der Größe 1x4 (oder 4x1).
+Enklave im Grenzgebiet
+1 Ruhmpunkt für jedes leere Feld, das an ein von dir gewähltes DorfGebiet angrenzt.
+Gnomkolonie
+6 Ruhmpunkte für jedes DorfGebiet mit mindestens 1 ausgefüllten Quadrat der Größe 2x2.
+Karawanserei
+1 Ruhmpunkt für jede Zeile und für jede Spalte mit mindestens 1 Feld eines von dir gewählten Dorf-Gebietes.
+Zwergenfestungen
+7 Ruhmpunkte für jede vollständig ausgefüllte Zeile und Spalte mit mindestens 1 Gebirgs-Feld.
+Silos
+10 Ruhmpunkte für jede vollständig ausgefüllte Spalte, die eine ungerade Nummer hat.
+Hügel der Toleranz
+4 Ruhmpunkte für jede Zeile mit mindestens 5 verschiedenen Geländearten.
+Siegel der Sterne
+4 Ruhmpunkte für je genau 3 aneinander angrenzende, leere Felder.
+Die Grube
+8 Ruhmpunkte für jede komplett ausgefüllte Zeile oder Spalte im Untergrund.
+Azema's Knochen
+5 Ruhmpunkte für jede verschiedene Landschaftsart angrenzend an die untere Kante der Karte.
+Antike Grabkirche
+5 Ruhmpunkte für jedes Gebirgsfeld das über ein beliebiges Gebiet mit einem Ruinenfeld verbunden ist.
+Schindersturm
+Insektoideninvasion
+Rattenmenschenrache
+Ogeroffensive
+Lagune
+Weideland
+Siedlung
+Lichter Hain
+Sinterterassen
+Grenzort
+Wilder Garten
+Wegkreuzung
+Mangrove
+Küstendorf
+Kethras Portale
+Dobrik von Lorkheim
+Wren die Löwin
+Freyla Flinkpfeil
+Dal Jolevson
+Dracheninferno
+Zombieplage
+Riesentrollrandale
+Blick der Gorgone
+<img style="height: 4em; float:right;" src="images/bohn1x.png">Spiel mit:<br/>Erkundungskarten: zufällig<br/>Wertungskarten: zufällig<div style="clear: both;font-size: 3.15vw;padding: 10px;"><span>In diesem klassischen Spielmodus werden sowohl die Enteckungskarten wie auch die Wertungskarten vollständig zufällig gezogen. Das Ergebnis wird in keiner Highscoreliste gespeichert.</span></div>
+<img style="height: 4em; float:right;" src="images/bohn3x.png">Spiel mit:<br/>Erkundungskarten: zufällig<br/>Wertungskarten: festgelegt<div style="clear: both;font-size: 3.15vw;padding: 10px;"><span>In diesem Spielmodus bleiben die Wertungskarten eine Woche lang für alle Spieler gleich, um eine faire Wertung für die Highscoreliste zu erhalten.</span></div>
+<img style="height: 4em; float:right;" src="images/bohnexp.png">Spiel mit:<br/>Erkundungskarten: festgelegt<br/>Wertungskarten: festgelegt<div style="clear: both;font-size: 3.15vw;padding: 10px;"><span>In diesem Spielmodus bleiben die Wertungskarten sowie die Abfolge der Entdeckungskarten eine Woche lang für alle Spieler gleich. Hiermit bekommst Du die fairste Wertung für die Highscoreliste.</span></div>
+Dieser Spielmodus ist nur<br/>möglich wenn Du online<br/>und eingeloggt bist.
+<img style="width: 85%; display: block; margin:auto;" src="images/heroes_wide.png">Diese Woche ist dieser Spielmodus<br/>nur mit der Erweiterung spielbar.
+Du hast ein noch nicht beendetes Spiel. Möchtest Du es fortsetzen?
+Hauptmenue
+Schliessen
+Statistiken
+Deine besten Spiele
+Deine letzten Spiele
+Gespielte Spiele
+Durchschnittspunkte
+Bestes Spiel
+Datum
+dd.MM.yyyy - HH:mm 'Uhr'
+Überprüfe Email...
+Unbekannte Emailadresse.
+Ungültiger Code.
+Verknüpfe Deinen Account mit Deiner email.
+Deine Email-adresse
+Zugesendeter Code.
+Account verknüpfen
+Email bestätigen
+Sende Email an Dich. Kopiere den gesendeten Code.
+Fehler beim überprüfen/senden der email.
+Dein Account wurde erfolgreich verknüpft. Du kannst Dich nun auch mit Deiner Emailadresse auf diesen oder anderen Geräten anmelden.
+Endet in
+einem Tag und
+Tagen und
+Stunden
+Letzte Liste
+Aktuelle Liste
+Deine größten Erfolge
+Die besten Röster - 
+Bitte mindestens 3 und maximal 16 Zeichen.
+Bitte lese und akzeptiere den Datenschutz.
+Registriere neuen Account...
+Der Nutzername ist schon in Verwendung. Wähle einen anderen.
+oder gib Deine zuvor verknüpfte Email an.
+Name
+Platz
+Punkte
+Datenschutz akzeptiert.
+Offline spielen
+Gib Dir einen Namen
+Highscores
+Achievements
+Regeln
+Credits
+Zurück
+Entwickelt durch:
+Autor
+Verlag
+Produkt kaufen
+Einkäufe wiederherstellen
+kaufen für
+Weiter
+Los geht's
+Hilfe beenden
+Keine Verbindung. Versuche zu ...
+Keine Internetverbindung erkannt.
+Ein Fehler bei der Email-Verknüpfung ist aufgetreten.
+Ein Fehler ist aufgetreten. Überprüfe den Code.
+Der Nutzername ist schon in Verwendung. Wähle einen anderen.
+Ein Fehler bei der Registrierung ist aufgetreten.
+Törichter Tölpel
+Möchtegern
+Unbeholfener Assistent
+Hobbygutachter
+Vermesserlehrling
+Reisender Topograph
+Kunstvoller Kartenzeichner
+Legendärer Meisterkartograph
+Spielen
+Erfolge
+
+..

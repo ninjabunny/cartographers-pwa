@@ -1,0 +1,618 @@
+Animation_H
+Animation_0
+Animation_1
+Animation_2
+Map.1
+Map.2
+Map.3
+Map.4
+Map.5
+Map.6
+Explore.Cards_H
+Map_H
+Ruins_H
+Seasons_H
+Ambush_H
+Scoring_H
+Heroes_H
+Undercity_H
+Map_0
+Map_1
+Map_2
+Map_3
+Map_4
+Map_5
+Explore.Cards_0
+Explore.Cards_1
+Scoring_0
+Scoring_1
+Scoring_2
+Heroes_0
+Heroes_1
+Seasons_0
+Seasons_1
+Ambush_0
+Ambush_1
+Ambush_2
+Ambush_3
+Ruins_0
+Ruins_1
+Undercity_0
+Undercity_1
+Undercity_2
+$BEREITS1
+$BEREITS2
+$VERK1
+$VERK2
+$VERK3
+$SEND1
+$SEND2
+$ATTENTION1
+HELPH1
+HELP1
+HELPH2
+HELP2
+HELPH3
+HELP3
+HELPH4
+HELP4
+HELPH5
+HELP5
+HELPH6
+HELP6
+HELPH7
+HELP7
+HELPH8
+HELP8
+HELPH9
+HELP9
+HELPH10
+HELP10
+HELPH11
+HELP11
+TIT0
+DESC0
+EXP0
+TIT1
+DESC1
+EXP1
+TIT2
+DESC2
+EXP2
+TIT3
+DESC3
+EXP3
+TIT4
+DESC4
+EXP4
+TIT5
+DESC5
+EXP5
+TIT6
+DESC6
+EXP6
+TIT7
+DESC7
+EXP7
+TIT8
+DESC8
+EXP8
+TIT9
+DESC9
+EXP9
+TIT10
+DESC10
+EXP10
+TIT11
+DESC11
+EXP11
+TIT12
+DESC12
+EXP12
+TIT13
+DESC13
+EXP13
+TIT14
+DESC14
+EXP14
+TIT15
+DESC15
+EXP15
+EXP16
+TIT16
+DESC16
+TIT17
+DESC17
+TIT18
+DESC18
+TIT19
+DESC19
+TIT20
+DESC20
+TIT21
+DESC21
+TIT22
+DESC22
+TIT23
+DESC23
+TIT24
+DESC24
+TIT25
+DESC25
+TIT26
+DESC26
+TIT27
+DESC27
+TIT28
+DESC28
+TIT29
+DESC29
+TIT30
+DESC30
+TIT31
+DESC31
+TIT32
+DESC32
+TIT33
+DESC33
+TIT34
+DESC34
+EXP17
+EXP18
+EXP19
+EXP20
+EXP21
+EXP22
+EXP23
+EXP24
+EXP25
+EXP26
+EXP27
+EXP28
+EXP29
+EXP30
+EXP31
+EXP32
+EXP33
+EXP34
+EXP35
+EXP36
+EXP37
+EXP38
+EXP39
+GameTyp1
+GameTyp2
+GameTyp3
+GameTypNot
+GameTypOffline
+GameTypLoad
+Hallo
+Zeit
+Leider.kein.Erfolg
+Versuch es doch einmal gemeinsam
+mit Deinen Freunden.
+Hervorragend!
+Du.hast.alle.Aufgabe
+Schaffst Du das auch gemeinsam
+mit Deinen Freunden?
+karten
+Aufgaben
+Zahlen
+Hauptmenue
+Schliessen
+Fortsetzen?
+Du.hast.ein.gespeich
+Fortsetzen
+Neues.Spiel
+Summe:
+Statistiken
+Experte
+Deine.besten.Spiele
+Deine.letzten.Spiele
+Gespielte.Spiele
+Durchschnitspunkte
+Bestes.Spiel
+Datum
+dd.MM.yyyy.-.HH:mm.'
+Überprüfe.email...
+Unbekannte.Emailadre
+Ungültiger.Code.
+Verknüpfe.Deinen.Acc
+Deine.Email-adresse
+Zugesendeter.Code.
+Account.verknüpfen
+Email.bestätigen
+Sende.email.an.Dich.
+Fehler.beim.überprüf
+Dein.Account.wurde.e
+Endet.in
+einem.Tag.und
+Tagen.und
+Stunden
+Letzte.Liste
+Aktuelle.Liste
+Deine.größten.Erfolg
+Die.besten.Spieler.-
+Bitte.mindestens.3.u
+Bitte.lese.und.akzep
+Registriere.neuen.Ac
+Der.Nutzername.ist.s
+oder.gib.Deine.zuvor
+Name
+Platz
+Punkte
+Datenschutz.akzeptie
+Offline.spielen
+Gib.Dir.einen.Namen
+Higscores
+Achievements
+Regeln
+Credits
+Zurück
+Entwickelt.durch:
+Author
+Verlag
+Produkt.kaufen
+Einkaeufe.wiederhers
+kaufen.fuer
+Weiter
+Los
+Nichtmehr
+Keine.Verbindung..Ve
+Keine.Internetverbin
+Ein.Fehler.bei.der.e
+Ein.Fehler.ist.aufge
+Der.Nutzername.ist.s
+Ein.Fehler.bei.der.R
+LVL1
+LVL2
+LVL3
+LVL4
+LVL5
+LVL6
+LVL7
+LVL8
+Spielen
+Erfolge
+Weitere.APPs.von.uns
+Ganz.Schön.Clever
+Das.legendäre.Würfel
+Doppelt.So.Clever
+Der.Nachfolger.zu.di
+Freitag
+Solo.Spiel.mit.Sucht
+TippiToppi
+Erfülle.geschickt.al
+Ligretto
+Das.schnelle.Spiel.v
+Coffee Roaster
+Röste.den.perfekten.
+Gecko
+Kostenloses.Denkspie
+AXIO.hexa
+Das.einfach.geniale.
+AXIO.octa
+The.Mind
+Werde.eins.und.spiel
+Ganz.schön.Clever
+Challenge.2.-.Regelä
+Standard
+Highscores
+Nächste.Röstrunde.st
+BEUTELINHALT
+RÖSTPUNKTE
+GESCHMACKSPUNKTE
+ANFÄNGER
+KÖNNER
+EXPERTE
+
+----------------------------------------------------------------
+Animations
+Normal speed of animations
+Faster animations
+High speed animations
+Base A
+Base B
+Heroes C
+Heroes D
+Undercity U1
+Undercity U2
+Explore Cards
+Map
+Ruins
+Seasons
+Ambush
+Scoring Cards
+Heroes
+Undercity
+Use the A side of the map sheet from the base game of Cartographers.
+Use the B side of the map sheet from the base game of Cartographers.
+Use the C side of the map sheet from the Heroes expansion.
+Use the D side of the map sheet from the Heroes expansion.
+Use the U1 side of the map sheet and the rules from the Undercity map pack.
+Use the U2 side of the map sheet and the rules from the Undercity map pack.
+Use the explore cards from the base game of Cartographers.
+Use the explore cards from the Heroes expansion.
+Use scoring cards from both the base game of Cartographers and the Heroes expansion.
+Only use scoring cards from base game of Cartographers.
+Only use scoring cards from the Heroes expansion.
+Use hero cards.
+Do not use hero cards.
+Use the season cards from the base game of Cartographers.
+Use the season cards from the Heroes expansion. The summer season is shorter.
+Use all released ambush cards.
+Only use the ambush cards from the ambush promo pack.
+Only use the ambush cards from the base game of Cartographers.
+Only use the ambush cards from the Heroes expansion.
+Use ruins cards and ruin spaces. 
+Do not use ruins cards and ruin spaces.
+Classic game without the rules and cards from the unknown lands "Undercity".
+Undercity game activated with the first card. 
+Undercity game with the second card activated.
+Your Account is already connected to this eMail.
+You can always log in with this email on any device later.
+Connect Account
+to your email.
+If you have connected your email to this account, you can restore it at any time, even on other devices.
+Confirmation code will be send to 
+Enter the code you received via email here.
+ATTENTION! Your current name and account will be lost if you do not connect it to your email.<br/>Are you Sure?
+Cartographers
+In this game you try to collect as many points as possible over 4 seasons through tasks.
+Tasks
+Each of the 4 scoring cards gives you points for different conditions that you fulfill.
+Tasks
+At the end of each season 2 of the 4 scoring cards are evaluated.
+Explore the landscape
+To complete these tasks you can explore landscapes. By chance a landscape is drawn.
+Landscapes
+An exploration has a type and a form. You can choose one of them. With this card you can choose between forest or field.
+Place
+Choose a type and then place this landscape form on the map by selecting the desired location and marking the fields to place.
+Confirm
+Once you have the shape and its type in your desired position, click on the checkmark.
+Great!!
+You have explored your first landscape. Now a new one is revealed, which you can place on the map as well.
+Explore a landscape
+In this exploration you have the choice between two landscape forms. Choose one and place it cleverly to get closer to the scoring objectives.
+Season
+Every discovery of a landscape takes time, which you can see on the top left of the drawn card.
+Season
+If the time available to you in a season has been exceeded by all your discoveries, this time ends and a rating is given.
+Sentinel Wood
+Earn one reputation star for each forest space adjacent to the edge of the map.
+Great River
+Treetower 
+Earn one reputation star for each forest space surrounded on all four sides by filled spaces or the edge of the map.
+Treetop Village
+Greenbough 
+Earn one reputation star for each row and column with at least one forest space. The same forest space may be scored in a row and a column.
+Fishing Village
+Stoneside Forest 
+Earn three reputation stars for each mountain space connected to another mountain space by a cluster of forest spaces.
+Farmland
+Canal Lake 
+Earn one reputation star for each water space adjacent to at least one farm space. Earn one reputation star for each farm space adjacent to at least one water space.
+Homestead
+The Golden Granary 
+Earn one reputation star for each water space adjacent to a ruins space. Earn three reputation stars for each farm space on a ruins space.
+Marshlands
+Mages Valley 
+Earn two reputation stars for each water space adjacent to a mountain space. Earn one reputation star for each farm space adjacent to a mountain space.
+  Hamlet  
+Shoreside Expanse 
+Earn three reputation stars for each cluster of farm spaces not adjacent to a water space or the edge of the map. Earn three reputation stars for each cluster of water spaces not adjacent to a farm space or the edge of the map.
+Rift Lands
+Wildholds
+Earn eight reputation stars for each cluster of six or more village spaces.
+Forgotten Forest
+Greengold Plains 
+Earn three reputation stars for each cluster of village spaces that is adjacent to three or more different terrain types.
+Hinterland Stream
+Great City 
+Earn one reputation star for each village space in the largest cluster of village spaces that is not adjacent to a mountain space.
+ Orchard 
+Shieldgate 
+Earn two reputation stars for each village space in the second largest cluster of village spaces.
+Goblin Attack
+Borderlands
+Earn six reputation stars for each complete row or complete column of filled spaces.
+Bugbear Assault
+The Broken Road 
+Earn three reputation stars for each complete diagonal line of filled spaces that touches the left and bottom edges of the map.
+Kobold Onslaught
+Lost Barony 
+Earn three reputation stars for each space along one edge of the largest square of filled spaces.
+Gnoll Raid
+The Cauldrons 
+Earn one reputation star for each empty space surrounded on all four sides by filled spaces or the edge of the map.
+Temple Ruins
+Outpost Ruins
+Faunlost Thicket
+Earn two reputation stars for each forest space in the longest unbroken column of forest spaces.
+Deepwood
+Earn six reputation stars for each cluster of five or more forest spaces not adjacent to any village spaces.
+Heart of the Forest
+Earn two reputation stars for each forest space surrounded on all four sides by forest spaces or the edge of the map.
+Sleepy Valley
+Earn four reputation stars for each row that contains three or more forest spaces.
+Craylund
+Earn seven reputation stars for each cluster of farm spaces adjacent to three or more water spaces.
+Ulem's Wallow
+Earn four reputation stars for each water space adjacent to two or more farm spaces.
+Clawsgrave Peaks
+Earn five reputation stars for each mountain space connected to a farm space by a cluster of water spaces.
+Jorekburg
+Earn four reputation stars for each column that contains an equal number of farm spaces and water spaces. There must be at least one of each.
+Traylo Monastery
+Earn seven reputation stars for  each cluster of village spaces that contains four spaces in a 4x1 or 1x4 rectangle.
+Outer Enclave
+Choose a cluster of village spaces and earn one reputation star for each empty space adjacent to that cluster.
+Gnomish Colony
+Earn six reputation stars for each cluster of village spaces that contains four spaces in a 2x2 square.
+Caravansary
+Choose a cluster of village spaces and earn one reputation star for each row and column that contains a space from that cluster.
+Dwarvenholds
+Earn seven reputation stars for each complete row or complete column of filled spaces that contains a  mountain space.
+Silos
+Earn ten reputation stars for each complete odd-numbered column of filled spaces.
+Banded Hills
+Earn four reputation stars for each row that contains five or more different terrain types.
+Starlit Sigil
+Earn four reputation stars for each cluster of exactly three empty spaces surrounded on all sides by filled spaces or the edge of the map.
+The Pit
+Earn eight reputation stars for each complete row or complete column of filled spaces below ground.
+Azema's Bones
+Earn five reputation stars for each different terrain type adjacent to the bottom edge of the map (excluding mountains).
+Ancient Sepulchre
+Earn five reputation stars for each mountain space connected to a ruins space by a cluster of any terrain type. The ruins space must have the same terrain type.
+Flayer Incursion
+Insectoid Invasion
+Ratman Strike
+Ogre Charge
+Lagoon
+Pasture
+Settlement
+Timber Grove
+Hillside Terrace
+Frontier Dwelling
+Wildwood Garden
+Woodland Crossroads
+Mangrove Swamp
+Coastal Encampement
+Kethra's Gates
+Dobrik of Lorkheim
+Wren the Lioness
+Freyla the True
+Dal of Jolev
+Dragon Inferno
+Zombie Plague
+Giant Troll Ravage
+Gorgon Gaze
+<img style="height: 4em; float:right;" src="images/bohn1x.png">Game with:<br/>Explore cards: random<br/>Scoring cards: random<div style = "clear: both; font-size: 3.15vw; padding: 10px;"> <span> In this classic game mode, both the exploration cards and the scoring cards are drawn completely randomly. The result is not saved in a highscore list. </span> </div>
+<img style="height: 4em; float:right;" src="images/bohn3x.png">Game with:<br/>Explore cards: random<br/>Scoring cards: fixed<div style = "clear: both; font-size: 3.15vw; padding: 10px;"> <span> In this game mode, the scoring cards remain the same for all players for a week in order to receive a fair rating for the highscore list. </ span> </div>
+<img style="height: 4em; float:right;" src="images/bohnexp.png">Game with:<br/>Explore cards: fixed<br/>Scoring cards: fixed<div style = "clear: both; font-size: 3.15vw; padding: 10px;"> <span> In this game mode, the scoring cards and the sequence of exploration cards remain the same for all players for a week. This will give you the fairest rating for the highscore list. </span> </div>
+<img style="width: 85%; display: block; margin:auto;" src="images/heroes_wide.png">This week the game mode<br/>is only playable with Expansion.
+This game mode is only<br/>playable if you are<br/>logged in and online.
+You have an unfinished Game. Do you want load and play this game?
+Hello
+Timed
+No success
+Why don't you try it together
+with your friends?
+Excellent!
+You have completed all the tasks.
+Can you do it together
+with your friends?
+cards
+Goal
+Number
+Main Menu
+Close
+Continue?
+You have a saved game. Do you want to continue?
+Continue
+New Game
+Sum:
+Highscores
+Expert
+Best games
+Most Recent Games
+Played Games
+Average Score
+Best Score
+Date
+MM/dd/yyyy - HH:mm 'o clock'
+Check email...
+Unknown email address.
+Invalid code.
+Link your account to your email.
+Your email address
+Sent code.
+Link account
+Confirm Email
+Send email to you. Copy the code sent to you.
+Error while checking/sending the email.
+Your account has been successfully linked. You can also log in with your email address on these or other devices now.
+ends in
+one day and
+days and
+hours
+Previous list
+Current list
+Your greatest Achievements
+The best Players - 
+Please use a minimum of 3 and a maximum of 16 characters.
+Please read and accept the privacy policy.
+Register new account...
+The username is already in use. Choose another.
+or enter your previously connected email address
+Name
+Place
+Score
+Privacy accepted.
+Play Offline
+Give yourself a name
+Leaderboards
+Achievements
+Rules
+Credits
+Back
+Developed by:
+Author
+Publisher
+Buy Product
+Restore purchases
+buy for
+More
+Let's go
+don't show again
+No connection. Trying to ...
+No internet connection visible.
+There is an error concerning the e-mail connection.
+Error, please check your CODE.
+The username is already in use, please choose another one.
+There is an error while registering.
+Oblivious Inkdrinker
+Dimwitted Doodler
+Inept Assistant
+Amateur Assessor
+Apprentice Surveyor
+Journeyman Topographer
+Master Mapsmith
+Legendary Cartographer
+Play
+Standings
+More APPs from us:
+That's Pretty Clever
+The legendary dice game for clever brains.
+Twice as Clever
+The successor to this really clever Dice Game.
+Friday
+Solo Game with high addiction by Friedeman Friese.
+Cahoots
+Intelligently solve all Tasks with your Cards.
+Ligretto
+The fast paced game from Schmidt-Spiele.
+Coffee Roaster
+Roast the perfect coffee in this great bag-building game.
+Gecko
+Free Brain game from HUCH.
+AXIO hexa
+Ingenious Game as you know it.
+AXIO octa
+The Mind
+Be one and play at the right time.
+That's pretty clever
+Challenge 2 - Rules
+Standard
+Leaderboards
+Start next game
+CONTENTS
+ROAST POINTS
+FLAVOR POINTS
+BEGINNER
+MODERATE
+EXPERT
+
+..

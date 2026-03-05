@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, viewport-fit=cover">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Cartographers">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="theme-color" content="#1c2e2d">
+	<title>Cartographers</title>
+
+	<link rel="apple-touch-icon" href="images/icon152.png">
+	<link rel="shortcut icon" sizes="192x192" href="images/icon192.png">
+	<link rel="manifest" href="pwa-manifest.json">
+	<link rel="stylesheet" href="assets/textures/fontSignPainter_HouseSlant.css">
+	<link rel="stylesheet" href="CanvasGame.css">
+
+	<!-- Stub Cordova APIs so the GWT game loads without errors -->
+	<script>
+	window.cordova = { platformId: 'browser' };
+	window.StatusBar = { hide: function(){}, show: function(){} };
+	window.CdvPurchase = { store: {
+		NON_CONSUMABLE: 'non consumable',
+		register: function(){},
+		when: function(){ return { productUpdated: function(){ return { approved: function(){} } } } },
+		initialize: function(){},
+		update: function(){},
+		restorePurchases: function(){},
+		get: function(){ return { id:'', owned:false, title:'', description:'', pricing:{price:''}, canPurchase:false } }
+	}};
+	window.CdvPurchase.Platform = { GOOGLE_PLAY: 'android', APPLE_APPSTORE: 'ios' };
+	function doResume(){}
+	function doPause(){}
+	function doBackbutton(){}
+	function doStore(){}
+	</script>
+
+	<script src="canvasgame/canvasgame.nocache.js"></script>
+</head>
+<body id="basis" style="height:100vh; width:100vw; margin:0; padding-top:env(safe-area-inset-top, 0px);">
+	<div style="width:100%; position:relative; height:10%;">
+		<div id="vertical" style="position:absolute;">
+			<div id="containMe"></div>
+		</div>
+	</div>
+	<noscript><p>JavaScript is required to play Cartographers.</p></noscript>
+
+	<script>
+	// Register service worker for offline PWA
+	if ('serviceWorker' in navigator) {
+		navigator.serviceWorker.register('pwa-sw.js').then(function(r) {
+			console.log('SW registered:', r.scope);
+		}).catch(function(e) {
+			console.log('SW failed:', e);
+		});
+	}
+	</script>
+</body>
+</html>

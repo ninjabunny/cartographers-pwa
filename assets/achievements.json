@@ -1,0 +1,627 @@
+{
+	"version" : 1,
+	"achivements" : [
+		{
+			"id" : "CartoGames",
+			"name" : {
+				"de" : "Anzahl",
+				"en" : "Amount"
+			},
+			"beschreibung" : {
+				"de" : "Spiele möglichst viele Spiele",
+				"en" : "Play as many games as possible."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 50, 100],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Spiele mindestens ein Spiel (Bisher: $)",
+					"en" : "Play at least one game (Currently: $)"
+				},
+				{
+					"de" : "Spiele mindestens 50 Spiele (Bisher: $)",
+					"en" : "Play at least 50 games (Currently: $)"
+				},
+				{
+					"de" : "Spiele mindestens 100 Spiele (Bisher: $)",
+					"en" : "Play at least 100 games (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Bestes: $)",
+					"en" : "You made it. (Your best: $)"
+				}
+			]
+		},
+		{
+			"id" : "CartoEvery",
+			"name" : {
+				"de" : "Jeder Auftrag",
+				"en" : "Every Task"
+			},
+			"beschreibung" : {
+				"de" : "Erfülle alle Aufträge des Spiels mit hohen Werten am Spielende",
+				"en" : "Solve all tasks with high values at the end of the game"
+			},
+			"targetAnz" : 3,
+			"targets" : [10, 20, 25],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erfülle alle Aufträge des Spiels mit mindestens 10 Punkten. (Bestes: $)",
+					"en" : "Complete all tasks of the game with at least 10 points. (Currently: $)"
+				},
+				{
+					"de" : "Erfülle alle Aufträge des Spiels mit mindestens 20 Punkten. (Bestes: $)",
+					"en" : "Complete all tasks of the game with at least 20 points. (Currently: $)"
+				},
+				{
+					"de" : "Erfülle alle Aufträge des Spiels mit mindestens 25 Punkten. (Bestes: $)",
+					"en" : "Complete all tasks of the game with at least 25 points. (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Bestes: $)",
+					"en" : "You made it. (Your best: $)"
+				}
+			]
+		},
+		{
+			"id" : "CartoEdict",
+			"name" : {
+				"de" : "Einzelner Auftrag",
+				"en" : "Single Task"
+			},
+			"beschreibung" : {
+				"de" : "Erledige einen Auftrag mit besonders vielen Punkten in Summe.",
+				"en" : "Do a task with a particularly high number of points in total."
+			},
+			"targetAnz" : 3,
+			"targets" : [20, 30, 40],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erledige einen Auftrag mit mindestens 20 Punkten in Summe.(Bisher: $)",
+					"en" : "Do a task with at least 20 points in total.(so far: $)"
+				},
+				{
+					"de" : "Erledige einen Auftrag mit mindestens 30 Punkten in Summe. (Bisher: $)",
+					"en" : "Do a task with at least 30 points in total.(so far: $)"
+				},
+				{
+					"de" : "Erledige einen Auftrag mit mindestens 40 Punkten in Summe.(Bisher: $)",
+					"en" : "Do a task with at least 40 points in total.(so far: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. ($)",
+					"en" : "You made it. ($)"
+				}
+			]
+		},
+		{
+			"id" : "CartoScore",
+			"name" : {
+				"de" : "Hohe Punkte",
+				"en" : "High Score"
+			},
+			"beschreibung" : {
+				"de" : "Erreiche einen möglichst hohen finalen Punktewert.",
+				"en" : "Finish a game with a high final score."
+			},
+			"targetAnz" : 3,
+			"targets" : [5, 15, 30],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erreiche mindestens 5 Punkte. (Bisher: $)",
+					"en" : "Reach at least 5 points. (so far: $)"
+				},
+				{
+					"de" : "Erreiche mindestens 15 Punkte. (Bisher: $)",
+					"en" : "Reach at least 15 points. (so far: $)"
+				},
+				{
+					"de" : "Erreiche mindestens 30 Punkte. (Bisher: $)",
+					"en" : "Reach at least 30 points. (so far: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. ($)",
+					"en" : "You made it. ($)"
+				}
+			]
+		},
+		{
+			"id" : "CartoMonster",
+			"name" : {
+				"de" : "Monsterbefreier",
+				"en" : "Monster basher"
+			},
+			"beschreibung" : {
+				"de" : "Keine (oder wenig) Minuspunkte durch Monster im gesamtem Spiel",
+				"en" : "None or few minus points for monster in the game."
+			},
+			"targetAnz" : 3,
+			"targets" : [-8, -4, 0],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Bekomme höchstens -8 Punkte durch Monster im Spiel. (Bisher: $)",
+					"en" : "Get a maximum of -8 points from monsters in a game. (so far: $)"
+				},
+				{
+					"de" : "Bekomme höchstens -4 Punkte durch Monster im Spiel. (Bisher: $)",
+					"en" : "Get a maximum of -4 points from monsters in a game. (so far: $)"
+				},
+				{
+					"de" : "Bekomme höchstens 0 Punkte durch Monster im Spiel. (Bisher: $)",
+					"en" : "Get a maximum of 0 points from monsters in a game. (so far: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. ($)",
+					"en" : "You made it. ($)"
+				}
+			]
+		},
+		{
+			"id" : "CartoHill",
+			"name" : {
+				"de" : "Alles Gold der Berge",
+				"en" : "The gold of the mountains"
+			},
+			"beschreibung" : {
+				"de" : "Sammle alle Goldmünzen der Berge in einem Spiel ein.",
+				"en" : "Collect all gold from the mountains in one game."
+			},
+			"targetAnz" : 3,
+			"targets" : [3, 4, 5],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Sammle mindestens 3 Goldmünzen der Berge ein. (Bisher $x)",
+					"en" : "Collect at least 3 gold from the mountains.(so far $x)"
+				},
+				{
+					"de" : "Sammle mindestens 4 Goldmünzen der Berge ein. (Bisher $x)",
+					"en" : "Collect at least 4 gold from the mountains. (so far $x)"
+				},
+				{
+					"de" : "Sammle mindestens 5 Goldmünzen der Berge ein. (Bisher $x)",
+					"en" : "Collect at least 5 gold from the mountains. (so far $x)"
+				},
+				{
+					"de" : "Du hast es geschafft. ($x)",
+					"en" : "You made it. ($x)"
+				}
+			]
+		},
+		{
+			"id" : "CartoTasks",
+			"name" : {
+				"de" : "Alle Aufträge gespielt.",
+				"en" : "Play all Tasks."
+			},
+			"beschreibung" : {
+				"de" : "Werte alle 16 verschiedenen Aufträge so oft wie möglich.",
+				"en" : "Score all 16 different Tasks as often as possible."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 2, 4],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erfülle alle 16 verschiedenen Aufträge mindestens einmal. (Bisher: $x)",
+					"en" : "Solve all 16 different tasks at least one time. (Currently: $x)"
+				},
+				{
+					"de" : "Erfülle alle 16 verschiedenen Aufträge mindestens zweimal. (Bisher: $x)",
+					"en" : "Solve all 16 different tasks at least two times. (Currently: $x)"
+				},
+				{
+					"de" : "Erfülle alle 16 verschiedenen Aufträge mindestens viermal. (Bisher: $x)",
+					"en" : "Solve all 16 different tasks at least four times. (Currently: $x)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $x)",
+					"en" : "You made it. (Currently: $x)"
+				}
+			]
+		},
+		{
+			"id" : "CartoDefender",
+			"name" : {
+				"de" : "Monster Verteidiger",
+				"en" : "Defender of monsters"
+			},
+			"beschreibung" : {
+				"de" : "Verteidige Monster vollständig so oft wie möglich.",
+				"en" : "Defend monsters completly as often as possible."
+			},
+			"targetAnz" : 3,
+			"targets" : [10, 100, 500],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Verteidige mindestens 10 Felder gegen die Monster. (Bisher $)",
+					"en" : "Defend at least 10 spaces against the monsters.(Currently: $)"
+				},
+				{
+					"de" : "Verteidige mindestens 100 Felder gegen die Monster. (Bisher $)",
+					"en" : "Defend at least 100 spaces against the monsters. (Currently: $)"
+				},
+				{
+					"de" : "Verteidige mindestens 500 Felder gegen die Monster. (Bisher $)",
+					"en" : "Defend at least 500 spaces against the monsters. (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "CartoAttacks",
+			"name" : {
+				"de" : "Monster Angriffe",
+				"en" : "Attack of monsters"
+			},
+			"beschreibung" : {
+				"de" : "Monsterangriffe innerhalb einer Jahreszeit.",
+				"en" : "Monster attacks in one season."
+			},
+			"targetAnz" : 3,
+			"targets" : [2, 3, 4],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erleide mindestens 2 Monsterattacken in einer Jahreszeit. (Bisher $)",
+					"en" : "Defend against 2 monsters in one season.(Currently: $)"
+				},
+				{
+					"de" : "Erleide mindestens 3 Monsterattacken in einer Jahreszeit. (Bisher $)",
+					"en" : "Defend against 3 monsters in one season. (Currently: $)"
+				},
+				{
+					"de" : "Erleide mindestens 4 Monsterattacken in einer Jahreszeit. (Bisher $)",
+					"en" : "Defend against 4 monsters in one season. (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "CartoCards",
+			"name" : {
+				"de" : "Kurze Jahreszeit",
+				"en" : "Short Season"
+			},
+			"beschreibung" : {
+				"de" : "Spiele eine Jahreszeit mit wenig Karten.",
+				"en" : "Play a season with few cards."
+			},
+			"targetAnz" : 3,
+			"targets" : [6, 5, 4],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Eine Jahreszeit mit nur 6 Entdeckungskarten. (Bisher $)",
+					"en" : "Play a season with only 6 exploration cards.(Currently: $)"
+				},
+				{
+					"de" : "Eine Jahreszeit mit nur 5 Entdeckungskarten. (Bisher $)",
+					"en" : "Play a season with only 5 exploration cards.(Currently: $)"
+				},
+				{
+					"de" : "Eine Jahreszeit mit nur 4 Entdeckungskarten. (Bisher $)",
+					"en" : "Play a season with only 4 exploration cards.(Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "CartoSeason",
+			"name" : {
+				"de" : "Ertragreiche Jahreszeit",
+				"en" : "Productive Season"
+			},
+			"beschreibung" : {
+				"de" : "Sammel viele Punkte in einer Jahreszeit.",
+				"en" : "Collect as many points in one Season."
+			},
+			"targetAnz" : 3,
+			"targets" : [50, 60, 70],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Absolviere eine Jahreszeit mit mehr als 50 Punkten. (Bisher $)",
+					"en" : "Play a season with more than 50 points.(Currently: $)"
+				},
+				{
+					"de" : "Absolviere eine Jahreszeit mit mehr als 60 Punkten. (Bisher $)",
+					"en" : "Play a season with more than 60 points.(Currently: $)"
+				},
+				{
+					"de" : "Absolviere eine Jahreszeit mit mehr als 70 Punkten. (Bisher $)",
+					"en" : "Play a season with more than 70 points.(Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "CartoTasksHeroes",
+			"name" : {
+				"de" : "Heroes Aufträge.",
+				"en" : "Heroes Edicts."
+			},
+			"beschreibung" : {
+				"de" : "Werte alle 16 verschiedenen Aufträge der Erweiterung so oft wie möglich.",
+				"en" : "Score all 16 different Tasks of the expansion as often as possible."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 2, 4],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erfülle alle 16 verschiedenen Aufträge mindestens einmal. (Bisher: $x)",
+					"en" : "Solve all 16 different tasks at least one time. (Currently: $x)"
+				},
+				{
+					"de" : "Erfülle alle 16 verschiedenen Aufträge mindestens zweimal. (Bisher: $x)",
+					"en" : "Solve all 16 different tasks at least two times. (Currently: $x)"
+				},
+				{
+					"de" : "Erfülle alle 16 verschiedenen Aufträge mindestens viermal. (Bisher: $x)",
+					"en" : "Solve all 16 different tasks at least four times. (Currently: $x)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $x)",
+					"en" : "You made it. (Currently: $x)"
+				}
+			]
+		},
+		{
+			"id" : "CartoFrost",
+			"name" : {
+				"de" : "Frostkönig",
+				"en" : "Frost King"
+			},
+			"beschreibung" : {
+				"de" : "Erziele die meisten Punkte im Winter.",
+				"en" : "Score the most points in winter."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 10],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erziele die meisten Punkte im Winter mindestens einmal. (Bisher: $x)",
+					"en" : "Score the most points in winter at least one time. (Currently: $x)"
+				},
+				{
+					"de" : "Erziele die meisten Punkte im Winter mindestens 5 mal. (Bisher: $x)",
+					"en" : "Score the most points in winter at least 5 times. (Currently: $x)"
+				},
+				{
+					"de" : "Erziele die meisten Punkte im Winter mindestens 10 mal. (Bisher: $x)",
+					"en" : "Score the most points in winter at least 10 times. (Currently: $x)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $x)",
+					"en" : "You made it. (Currently: $x)"
+				}
+			]
+		},
+		{
+			"id" : "CartoDragon",
+			"name" : {
+				"de" : "Drachentöter",
+				"en" : "Dragonslayer"
+			},
+			"beschreibung" : {
+				"de" : "Bezwinge den Drachen.",
+				"en" : "Defeat the Dragon."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 10],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Bezwinge den Drachen mindestens einmal. (Bisher: $x)",
+					"en" : "Defeat the Dragon at least one time. (Currently: $x)"
+				},
+				{
+					"de" : "Bezwinge den Drachen  mindestens 5 mal. (Bisher: $x)",
+					"en" : "Defeat the Dragon at least 5 times. (Currently: $x)"
+				},
+				{
+					"de" : "Bezwinge den Drachen  mindestens 10 mal. (Bisher: $x)",
+					"en" : "Defeat the Dragon at least 10 times. (Currently: $x)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $x)",
+					"en" : "You made it. (Currently: $x)"
+				}
+			]
+		},
+		{
+			"id" : "CartoUndercity",
+			"name" : {
+				"de" : "Tief Unten",
+				"en" : "Deep Rock"
+			},
+			"beschreibung" : {
+				"de" : "Baue in der untersten Zeile.",
+				"en" : "Build on the bottom Line."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 10],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Fülle die unterste Zeile mindestens einmal. (Bisher: $x)",
+					"en" : "Complete the whole bottom line at least one time. (Currently: $x)"
+				},
+				{
+					"de" : "Fülle die unterste Zeile mindestens 5 mal. (Bisher: $x)",
+					"en" : "Complete the whole bottom line at least 5 times. (Currently: $x)"
+				},
+				{
+					"de" : "Fülle die unterste Zeile mindestens 10 mal. (Bisher: $x)",
+					"en" : "Complete the whole bottom line at least 10 times. (Currently: $x)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $x)",
+					"en" : "You made it. (Currently: $x)"
+				}
+			]
+		},
+
+		{
+			"id" : "serverPointsPeriod",
+			"name" : {
+				"de" : "10 Gilde",
+				"en" : "10 Guild"
+			},
+			"beschreibung" : {
+				"de" : "Erziele mehr als 10 Punkte in der Standard Highscoreliste",
+				"en" : "Score more than 10 points"
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 15],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erziele mehr als 10 Punkte eine Woche in Folge. (Aktuell: $)",
+					"en" : "Score more than 10 points one week in a row.(Currently: $)"
+				},
+				{
+					"de" : "Erziele mehr als 10 Punkte für 5 Wochen in Folge. (Aktuell: $)",
+					"en" : "Score more than 10 points for 5 weeks in a row.(Currently: $)"
+				},
+				{
+					"de" : "Erziele mehr als 10 Punkte für 15 Wochen in Folge. (Aktuell: $)",
+					"en" : "Score more than 10 points for 15 weeks in a row. (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "serverPointsPeriodProfi",
+			"name" : {
+				"de" : "20 Gilde",
+				"en" : "20 guild"
+			},
+			"beschreibung" : {
+				"de" : "Erziele mehr als 25 Punkte in der Highscoreliste",
+				"en" : "Score more than 25 points"
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 15],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erziele mehr als 25 Punkte eine Woche in Folge. (Aktuell: $)",
+					"en" : "Score more than 25 points one week in a row.(Currently: $)"
+				},
+				{
+					"de" : "Erziele mehr als 25 Punkte für 5 Wochen in Folge. (Aktuell: $)",
+					"en" : "Score more than 25 points for 5 weeks in a row.(Currently: $)"
+				},
+				{
+					"de" : "Erziele mehr als 25 Punkte für 15 Wochen in Folge. (Aktuell: $)",
+					"en" : "Score more than 25 points for 15 weeks in a row. (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "serverTop10Period",
+			"name" : {
+				"de" : "Top 10 Spieler",
+				"en" : "Top 10 Player"
+			},
+			"beschreibung" : {
+				"de" : "Erziele einen Top 10 Platz möglichst viele Wochen in Folge.",
+				"en" : "Place in the Top 10 every week in a row."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 15],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erreiche einen Top 10 Eintrag diese Woche (Aktuell: $)",
+					"en" : "Reach a rank of at least 10 this week (Currently: $)"
+				},
+				{
+					"de" : "Erreiche einen Top 10 Eintrag für 5 Wochen hintereiander (Aktuell: $)",
+					"en" : "Reach a rank of at least 10 for 5 weeks in a row (Currently: $)"
+				},
+				{
+					"de" : "Erreiche einen Top 10 Eintrag für 15 Wochen hintereiander (Aktuell: $)",
+					"en" : "Reach a rank of at least 10 for 15 weeks in a row (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "serverTop100Period",
+			"name" : {
+				"de" : "Top 100 Spieler",
+				"en" : "Top 100 Player"
+			},
+			"beschreibung" : {
+				"de" : "Erziele einen Top 100 Platz möglichst viele Wochen in Folge.",
+				"en" : "Place in the Top 100 every week in a row."
+			},
+			"targetAnz" : 3,
+			"targets" : [1, 5, 15],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erreiche einen Top 100 Eintrag diese Woche (Aktuell: $)",
+					"en" : "Reach a rank of at least 100 this week (Currently: $)"
+				},
+				{
+					"de" : "Erreiche einen Top 100 Eintrag für 5 Wochen hintereiander (Aktuell: $)",
+					"en" : "Reach a rank of at least 100 for 5 weeks in a row (Currently: $)"
+				},
+				{
+					"de" : "Erreiche einen Top 100 Eintrag für 15 Wochen hintereiander (Aktuell: $)",
+					"en" : "Reach a rank of at least 100 for 15 weeks in a row (Currently: $)"
+				},
+				{
+					"de" : "Du hast es geschafft. (Aktuell: $)",
+					"en" : "You made it. (Currently: $)"
+				}
+			]
+		},
+		{
+			"id" : "serverBestPlace",
+			"name" : {
+				"de" : "Ein mal Erster",
+				"en" : "Be on top"
+			},
+			"beschreibung" : {
+				"de" : "Erziele einen Spitzenplatz in einer Bestenliste.",
+				"en" : "Achieve a top position in one of the weekly lists."
+			},
+			"targetAnz" : 3,
+			"targets" : [10, 5, 1],
+			"nochZuErfuellen" : [
+				{
+					"de" : "Erreiche mindestens den 10. Platz (Platzierung: $)",
+					"en" : "Achieve at least the 10th position (Position: $)"
+				},
+				{
+					"de" : "Erreiche mindestens den 5. Platz (Platzierung: $)",
+					"en" : "Achieve at least the 5th position (Position: $)"
+				},
+				{
+					"de" : "Erreiche den 1. Platz (Platzierung: $)",
+					"en" : "Achieve the 1st position (Position: $)"
+				},
+				{
+					"de" : "Du hast es geschafft.",
+					"en" : "You made it."
+				}
+			]
+		}		
+	]
+}
+

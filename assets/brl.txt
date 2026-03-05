@@ -1,0 +1,302 @@
+HELPH1
+HELP1
+HELPH2
+HELP2
+HELPH3
+HELP3
+HELPH4
+HELP4
+HELPH5
+HELP5
+HELPH6
+HELP6
+HELPH7
+HELP7
+HELPH8
+HELP8
+HELPH9
+HELP9
+HELPH10
+HELP10
+HELPH11
+HELP11
+Spring
+Summer
+Autumn
+Winter
+TIT0
+DESC0
+EXP0
+TIT1
+DESC1
+EXP1
+TIT2
+DESC2
+EXP2
+TIT3
+DESC3
+EXP3
+TIT4
+DESC4
+EXP4
+TIT5
+DESC5
+EXP5
+TIT6
+DESC6
+EXP6
+TIT7
+DESC7
+EXP7
+TIT8
+DESC8
+EXP8
+TIT9
+DESC9
+EXP9
+TIT10
+DESC10
+EXP10
+TIT11
+DESC11
+EXP11
+TIT12
+DESC12
+EXP12
+TIT13
+DESC13
+EXP13
+TIT14
+DESC14
+EXP14
+TIT15
+DESC15
+EXP15
+EXP16
+GameTyp1
+GameTyp2
+GameTyp3
+GameTypOffline
+Hauptmenue
+Schliessen
+Statistiken
+Deine.besten.Spiele
+Deine.letzten.Spiele
+Gespielte.Spiele
+Durchschnitspunkte
+Bestes.Spiel
+Datum
+dd.MM.yyyy.-.HH:mm.'
+Überprüfe.email...
+Unbekannte.Emailadre
+Ungültiger.Code.
+Verknüpfe.Deinen.Acc
+Deine.Email-adresse
+Zugesendeter.Code.
+Account.verknüpfen
+Email.bestätigen
+Sende.email.an.Dich.
+Fehler.beim.überprüf
+Dein.Account.wurde.e
+Endet.in
+einem.Tag.und
+Tagen.und
+Stunden
+Letzte.Liste
+Aktuelle.Liste
+Deine.größten.Erfolg
+Die.besten.Röster.-.
+Bitte.mindestens.3.u
+Bitte.lese.und.akzep
+Registriere.neuen.Ac
+Der.Nutzername.ist.s
+oder.gib.Deine.zuvor
+Name
+Platz
+Punkte
+Datenschutz.akzeptie
+Offline.spielen
+Gib.Dir.einen.Namen
+Higscores
+Achievements
+Regeln
+Credits
+Zurück
+Entwickelt.durch:
+Author
+Verlag
+Produkt.kaufen
+Einkaeufe.wiederhers
+kaufen.fuer
+Weiter
+Los
+Nichtmehr
+Keine.Verbindung..Ve
+Keine.Internetverbin
+Ein.Fehler.bei.der.e
+Ein.Fehler.ist.aufge
+Der.Nutzername.ist.s
+Ein.Fehler.bei.der.R
+LVL1
+LVL2
+LVL3
+LVL4
+LVL5
+LVL6
+LVL7
+LVL8
+Spielen
+Erfolge
+
+----------------------------------------------------------------
+Bem-vindo ao Kartograph!
+Neste jogo, você tenta durante 4 temporadas coletar o maior número possível de pontos através de tarefas.
+Tarefas
+Cada uma das 4 missões lhe dá pontos para diferentes condições que você cumpre.
+Tarefas
+Ao final de cada temporada, 2 dos 4 pedidos são sempre avaliados.
+Descubra a paisagem
+Para completar estas missões, você pode descobrir paisagens. Por acaso, uma paisagem é desenhada.
+Paisagens
+Uma paisagem tem um tipo e uma forma. Você pode escolher uma delas. Com este cartão, você pode escolher entre floresta ou campo.
+Lugar
+Escolha um tipo e depois coloque este formulário de paisagem no mapa, selecionando o local desejado e marcando os campos a serem colocados.
+Confirme
+Uma vez que você tenha a forma e seu tipo em sua posição desejada, clique no gancho.
+Ótimo!!
+Você descobriu sua primeira paisagem. Agora uma nova é revelada, que você pode usar também no mapa.
+Descobrir uma paisagem
+Nesta descoberta, você tem a escolha entre duas formas de paisagem. Escolha um e o coloque inteligentemente para se aproximar dos objetivos da missão.
+Temporada
+Cada descoberta de uma paisagem leva tempo, que você pode ver na tela.
+Temporada
+Se o tempo disponível para você em uma estação tiver sido excedido por todas as suas descobertas, este tempo termina e uma classificação é dada.
+Primavera
+Verão
+Outono
+Inverno
+Floresta Escudo
+1 ponto de glória para cada campo florestal que margeia a borda.
+Grande fluxo
+Floresta Branca
+1 ponto de glória para cada campo florestal que confina exclusivamente com campos preenchidos (e/ou a fronteira).
+Aldeia do topo das árvores
+Espaço verde 
+1 Ruhmpoint para cada linha e cada coluna com pelo menos 1 campo florestal. Cada campo florestal pode ser avaliado para uma linha e uma coluna.
+vila de pesca
+Caminho da floresta
+3 pontos de glória para cada Mountain hex ligado a outro Mountain hex por 1 Forest hex. Ambos os campos de montanha devem ser adjacentes à mesma área florestal.
+Farmland
+Canal de irrigação 
+1 ponto de descanso para cada campo de água que margeia pelo menos 1 campo de terra arável. 1 ponto definido para cada campo de terra arável adjacente a pelo menos 1 campo de água.
+  Homestead  
+Graneleiro dourado 
+1 ponto de glória para cada campo de água que margeia 1 campo de ruína, seja ele cheio ou vazio. 3 pontos de glória para cada campo de terra arável em um campo em ruínas.
+  Pântano  
+Vale dos Mágicos 
+2 pontos de glória para cada hexadecimal de água adjacente a 1 hexadecimal de montanha. 1 ponto de fama para cada campo de terra arável que margeia 1 campo de montanha.
+  aldeia  
+Praias extensas 
+3 pontos de glória para cada área de campo que não está bordejando a borda nem em 1 ou mais campos de água. 3 pontos de fama para cada área de água que não faz fronteira com a borda nem com 1 ou mais campos de terra arável.
+Terra Fragmentada
+Bastiões no deserto
+8 pontos de glória para cada área de aldeia composta de pelo menos 6 campos de aldeia.
+Floresta esquecida
+Plano Iridescente 
+3 pontos de glória para cada área do vilarejo que margeia pelo menos 3 tipos diferentes de terreno.
+Hinterlandbach
+Metrópolis 
+1 ponto de glória para cada campo de aldeia em sua maior área de aldeia que não faz fronteira com 1 ou mais campos de montanha. Toda a área da aldeia não deve ser adjacente a nenhum campo de montanha a ser contado.
+Pomar
+Escudo do Império 
+2 pontos de glória para cada campo em sua segunda maior área de aldeia. No caso de um empate para a maior área da aldeia, você receberá pontos de fama correspondentes à maior área.
+Ataque de Goblin
+País fronteiriço
+6 créditos para cada linha completada e cada coluna completada.
+Assalto à gruta Hatch
+A Lange Straße 
+3 pontos de descanso para cada diagonal, da esquerda para a borda inferior, onde todos os campos são preenchidos. Se houver apenas campos preenchidos nesta diagonal, você receberá 3 pontos de fama por esta diagonal.
+Tempestade de Goblin
+Baronesa inacessível 
+3 pontos de glória para cada coluna de seu maior quadrado de quadrados, completamente preenchido. Para cada coluna desse quadrado, você receberá 3 pontos.
+Ataque de Gnoll
+As caldeiras 
+1 ponto de descanso para cada quadrado vazio que margeia 4 quadrados preenchidos (e/ou a borda)
+Ruínas do Templo
+Posto Avançado Expirado
+<img style="height: 4em; float:right;" src="images/bohn1x.png">Play with:<br/>Exploration cards: random<br/>Valuation cards: random<div style="clear: both;font-size: 16px;padding: 10px;"><span>Neste modo clássico de jogo, tanto as cartas de descoberta como as cartas de avaliação são desenhadas completamente aleatórias. O resultado não é salvo em nenhuma lista de pontuações altas.</span></div>
+<img style="height: 4em; float:right;" src="images/bohn3x.png">game com:<br/>cartões de exploração: fixo<br/>cartões de pontuação: aleatório<div style="clear: both;font-size: 16px; padding: 10px;"><span>Neste modo de jogo, os cartões de pontuação permanecem os mesmos para todos os jogadores durante uma semana para obter uma pontuação justa para a lista de pontuações.</span></div>
+<img style="height: 4em; float:right;" src="images/bohnexp.png">play with:<br/>exploration cards: fixed<br/>score cards: fixed<div style="clear: both;font-size: 16px; padding: 10px;"><span> Neste modo de jogo as cartas de pontuação, assim como a seqüência das cartas de descoberta, permanecem as mesmas para todos os jogadores durante uma semana. Assim, você obtém a pontuação mais justa para a lista de pontuações mais altas.
+Este modo de jogo só é possível se você estiver online e logado.
+Menu principal
+Fechar
+Estatísticas
+Seus melhores jogos
+Seus últimos jogos
+Jogos jogados
+Pontos médios
+Melhor jogo
+Data
+dd.MM.yyyyy - HH:mm 'Relógio
+Verifique o e-mail...
+Endereço de e-mail desconhecido.
+Código inválido.
+Vincule sua conta ao seu e-mail.
+Seu endereço de e-mail
+Código transmitido.
+Link de conta
+confirmar e-mail
+Envie um e-mail para você mesmo. Copie o código enviado.
+Erro ao verificar/enviar o e-mail.
+Sua conta foi vinculada com sucesso. Agora você pode fazer login com seu endereço de e-mail nestes ou em outros dispositivos.
+Termina em
+um dia e
+dias e
+horas
+Última lista
+Lista atual
+Suas maiores realizações
+Os melhores torrefadores - 
+Favor inserir um mínimo de 3 e um máximo de 16 caracteres.
+Por favor, leia e aceite a política de privacidade.
+Registrar nova conta...
+O nome de usuário já está em uso. Escolha outro.
+ou digite seu e-mail previamente vinculado.
+Nome
+Lugar
+Pontos
+Política de privacidade aceita.
+Jogar fora de linha
+Dê a si mesmo um nome
+Pontuação
+Realizações
+Regras
+Créditos
+Voltar
+Desenvolvido por:
+Autor
+Editora
+Comprar produto
+Restaurar compras
+comprar por
+Continuar
+Vamos
+Ajuda final
+Sem conexão. Tente...
+Nenhuma conexão com a Internet foi detectada.
+Ocorreu um erro no link do e-mail.
+Ocorreu um erro. Verifique o código.
+O nome de usuário já está em uso. Escolha outro.
+Ocorreu um erro durante o registro.
+Idiota idiota
+wannabe
+Assistente desajeitado
+Avaliadores de passatempos
+Inspetor aprendiz
+Topógrafa viajante
+Artístico cartógrafo
+Lendário mestre cartógrafo
+Reproduzir
+Sucessos
+
+..

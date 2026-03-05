@@ -1,0 +1,15 @@
+#
+# Drachenherz.string : German strings file for BSW DrachenherzBoard.class
+#
+# Scaled Fonts
+#
+fourFont=Whisky 1670,0,20
+threeFont=Whisky 1670,0,24
+defaultFont=Whisky 1670,0,36
+largeFont=Whisky 1670,0,56
+bigFont=Whisky 1670,0,36
+textFont=Whisky 1670,0,56
+#
+# Strings
+#
+t0=Neuberechnen der Grafik
