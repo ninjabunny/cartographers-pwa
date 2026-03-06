@@ -85,12 +85,11 @@ body {
 }
 .game-border{
 	padding: 0px;
-    width: 100%;
     width: 100vw;
     height: 100vh;
     background: #10314a00;
     max-height: 100vh;
-    max-width: 78.31vh;
+    max-width: 127.69vh;
     margin: auto;
     position: absolute;
     top: 0;
@@ -100,13 +99,12 @@ body {
 }
 .game-border  canvas{
 	padding: 0px;
-    width: 100%;
     width: 100vw;
-    xheight: 100vh;
+    height: 100vh;
 
     background: #10314a00;
     max-height: 100vh;
-    max-width: 78.31vh;
+    max-width: 127.69vh;
     margin: auto;
     position: absolute;
     top: 0;
