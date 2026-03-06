@@ -88,8 +88,6 @@ body {
     width: 100vw;
     height: 100vh;
     background: #10314a00;
-    max-height: 100vh;
-    max-width: 127.69vh;
     margin: auto;
     position: absolute;
     top: 0;
@@ -103,8 +101,6 @@ body {
     height: 100vh;
 
     background: #10314a00;
-    max-height: 100vh;
-    max-width: 127.69vh;
     margin: auto;
     position: absolute;
     top: 0;
